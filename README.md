@@ -1,6 +1,6 @@
 # my_app
 
-A new Flutter project.
+A new Flutter project. Firebase authenticator
 
 ## Getting Started
 
