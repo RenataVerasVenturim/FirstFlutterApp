@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+## Integration
+firebase_ui_auth
 
-This project is a starting point for a Flutter application.
+<img width="409" height="909" alt="image" src="https://github.com/user-attachments/assets/8544acba-a264-487d-a6d1-bc9504b5ed4b" />
 
-A few resources to get you started if this is your first Flutter project:
+<img width="467" height="903" alt="image" src="https://github.com/user-attachments/assets/3bc1bc43-8c21-4450-96a2-6a8f39cc40b5" />
+<img width="471" height="939" alt="image" src="https://github.com/user-attachments/assets/1d4d6a29-54c9-43f2-bf25-ad0a1091bdf0" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
