@@ -1,0 +1,40 @@
+name: namer_app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 0.0.1+1
+
+environment:
+  sdk: '>=2.19.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase Core - obrigatório
+  firebase_core: ^2.24.2
+
+  # Firebase Authentication
+  firebase_auth: ^4.19.6
+
+  # Firebase UI (para telas prontas de login)
+  firebase_ui_auth: ^1.12.0
+  firebase_ui_oauth_google: ^1.3.0   # se for usar login Google
+
+  # Provider
+  provider: ^6.1.2
+
+  # Pacote de palavras aleatórias
+  english_words: ^4.0.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
